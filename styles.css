@@ -26,6 +26,35 @@
   animation: fadeInUp 0.8s ease-out;
 }
 
+.scroll-down {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+.scroll-down a {
+  color: #ffffff;
+  font-size: 28px;
+  animation: floatY 1.5s ease-in-out infinite;
+  transition: color 0.3s;
+  display: inline-block;
+}
+
+/* Corrigido: apenas anima o eixo Y */
+@keyframes floatY {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(12px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -902,7 +931,7 @@ li {
   right: 20px;
   font-size: 30px;
   font-weight: bold;
-  color: white;
+  color: red;
   cursor: pointer;
 }
 
