@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio profissional! Este projeto apresenta meus principais trabalhos, experiências, formações e habilidades como Desenvolvedor Full Stack.
 
-🔗 **Acesse online**: [https://guilhermevon.github.io](https://guilhermevon.github.io)
+🔗 **Acesse online**: [https://guilhermevon.github.io/portfolio-guilherme/](https://guilhermevon.github.io/portfolio-guilherme/)
 
 ---
 
@@ -46,10 +46,10 @@ Este site está hospedado gratuitamente com o GitHub Pages.
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/guilhermevon/guilhermevon.github.io
+git clone https://github.com/guilhermevon/portfolio-guilherme.github.io
 
 # 2. Acesse a pasta
-cd guilhermevon.github.io
+cd myPortfolio
 
 # 3. Abra o index.html no navegador
 ```
@@ -64,7 +64,7 @@ cd guilhermevon.github.io
 - **[Conversor de Moedas](https://guilhermevon.github.io/conversorMoedas/)**  
   Conversor com dados atualizados em tempo real
 
-- **[GAO - Gestão de Almoxarifado](https://github.com/guilhermevon/provac_almoxarifado)**  
+- **[GAO - Gestão de Almoxarifado](Indisponível para ver por ser um sistema interno da Provac/Cemig)**  
   Sistema interno de controle de materiais
 
 - **[Tulen Photography](https://guilhermevon.github.io/tulen-photography/)**  
@@ -76,9 +76,9 @@ cd guilhermevon.github.io
 
 ## 👨‍💼 Sobre Mim
 
-Desenvolvedor Full Stack com foco em criar soluções eficientes e bem estruturadas.  
-Experiência em React, Node.js, Python, APIs, bancos de dados, Docker e outras stacks modernas.  
-Acredito na melhoria contínua, no trabalho em equipe e na inovação com propósito.
+Desenvolvedor Full Stack com experiência em projetos web e sistemas complexos. Gosto de transformar ideias em soluções funcionais, unindo código limpo, foco no usuário e visão de negócio.
+Trabalho com tecnologias como JavaScript, TypeScript, Python, React, Node.js e Laravel, além de bancos de dados como PostgreSQL e MongoDB. Estou sempre em evolução constante, buscando aplicar inovação e qualidade em tudo que desenvolvo.
+Valorizo o trabalho em equipe, a comunicação clara e a melhoria contínua. Se você procura alguém proativo, comprometido e com sede de crescimento, vamos conversar!
 
 ---
 
@@ -95,7 +95,7 @@ Acredito na melhoria contínua, no trabalho em equipe e na inovação com propó
 
 Este portfólio está disponível neste repositório:
 
-🔗 [https://github.com/guilhermevon/guilhermevon.github.io](https://github.com/guilhermevon/guilhermevon.github.io)
+🔗 [https://github.com/guilhermevon/portfolio-guilherme](https://github.com/guilhermevon/portfolio-guilherme)
 
 ---
 
@@ -108,4 +108,4 @@ Este projeto é de uso pessoal. Fique à vontade para se inspirar, mas não copi
 ## ✨ Desenvolvido por
 
 **Guilherme Carvalho** — 2025  
-[https://guilhermevon.github.io](https://guilhermevon.github.io)
+[https://github.com/guilhermevon](https://github.com/guilhermevon)
