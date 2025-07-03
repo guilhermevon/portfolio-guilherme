@@ -286,7 +286,7 @@ li {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: start;
 }
 
 .hero-content h1 {
@@ -808,6 +808,10 @@ li {
     padding: 15px 20px;
   }
 
+  .hero-content {
+    align-items: center;
+  }
+
   .main-menu {
     flex-wrap: wrap;
     justify-content: center;
@@ -848,6 +852,10 @@ li {
     height: 90px;
     font-size: 2.2em;
   }
+
+  .hero-content {
+    align-items: center;
+  }
 }
 
 @media (max-width: 400px) {
@@ -855,6 +863,10 @@ li {
     width: 80px;
     height: 80px;
     font-size: 2em;
+  }
+
+  .hero-content {
+    align-items: center;
   }
 }
 
@@ -1121,6 +1133,10 @@ li {
     width: 100%;
     min-width: unset;
   }
+
+  .hero-content {
+    align-items: center;
+  }
 }
 
 .form-section-wrapper {
@@ -1243,6 +1259,10 @@ li {
     font-size: 3.5rem;
     text-align: center;
     white-space: normal;
+  }
+
+  .hero-content {
+    align-items: center;
   }
 
   .footer {
