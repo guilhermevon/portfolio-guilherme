@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio profissional! Este projeto apresenta meus principais
 - CSS3  
 - JavaScript  
 - Font Awesome  
-- GitHub Pages (Deploy)
+- Deploy com Vercel
 
 ---
 
