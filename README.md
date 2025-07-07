@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio profissional! Este projeto apresenta meus principais trabalhos, experiências, formações e habilidades como Desenvolvedor Full Stack.
 
-🔗 **Acesse online**: [https://guilhermevon.github.io/portfolio-guilherme/](https://guilhermevon.github.io/portfolio-guilherme/)
+🔗 **Acesse online**: [https://portfolio-guilhermecarvalho.vercel.app/](https://portfolio-guilhermecarvalho.vercel.app/)
 
 ---
 
