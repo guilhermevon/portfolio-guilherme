@@ -1494,3 +1494,14 @@ li {
 .insta-btn:hover {
   background-color: #2f013a;
 }
+
+.btn-mobile-only {
+  display: none;
+}
+
+/* Mostra apenas em telas menores que 768px */
+@media screen and (max-width: 768px) {
+  .btn-mobile-only {
+    display: inline-block; /* ou flex, dependendo do layout */
+  }
+}
