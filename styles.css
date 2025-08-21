@@ -347,6 +347,11 @@ li {
   align-self: flex-start;
 }
 
+.hero-content .a22 {
+  text-decoration: none;
+   color: white;
+}
+
 .hero-buttons {
   display: flex;
   gap: 15px;
