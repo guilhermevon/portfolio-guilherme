@@ -42,7 +42,6 @@
   display: inline-block;
 }
 
-/* Corrigido: apenas anima o eixo Y */
 @keyframes floatY {
   0% {
     transform: translateY(0);
@@ -1431,7 +1430,7 @@ li {
 }
 
 .meImage {
-  width: 380px;
+  width: 430px;
   max-width: 100%;
   border-radius: 10px;
   flex-shrink: 0;
